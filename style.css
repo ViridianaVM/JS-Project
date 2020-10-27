@@ -12,7 +12,13 @@ textarea {
 	line-height: 1.5;
 }
 
-h1,
+h1 {
+    display: block;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 55px;
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
 h2,
 h3,
 h4,
